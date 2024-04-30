@@ -1,0 +1,12 @@
+version: '3.5'
+
+services:
+  transaction-db:
+    container_name: postgres_container
+    image: postgres:15.6
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: transaction
+    ports:
+      - "5432:5432"

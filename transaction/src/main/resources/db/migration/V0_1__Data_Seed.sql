@@ -1,0 +1,10 @@
+INSERT INTO transaction (sender_id, receiver_id, amount) VALUES ('f47ac10b-58cc-4372-a567-0e02b2c3d479', '99c5591f-e3e8-4d06-9338-257194bf3de8', 100);
+INSERT INTO transaction (sender_id, receiver_id, amount) VALUES ('99c5591f-e3e8-4d06-9338-257194bf3de8', 'f47ac10b-58cc-4372-a567-0e02b2c3d479', 150);
+INSERT INTO transaction (sender_id, receiver_id, amount) VALUES ('f47ac10b-58cc-4372-a567-0e02b2c3d479', '99c5591f-e3e8-4d06-9338-257194bf3de8', 200);
+INSERT INTO transaction (sender_id, receiver_id, amount) VALUES ('99c5591f-e3e8-4d06-9338-257194bf3de8', 'f47ac10b-58cc-4372-a567-0e02b2c3d479', 250);
+INSERT INTO transaction (sender_id, receiver_id, amount) VALUES ('f47ac10b-58cc-4372-a567-0e02b2c3d479', '99c5591f-e3e8-4d06-9338-257194bf3de8', 300);
+INSERT INTO transaction (sender_id, receiver_id, amount) VALUES ('99c5591f-e3e8-4d06-9338-257194bf3de8', 'f47ac10b-58cc-4372-a567-0e02b2c3d479', 350);
+INSERT INTO transaction (sender_id, receiver_id, amount) VALUES ('f47ac10b-58cc-4372-a567-0e02b2c3d479', '99c5591f-e3e8-4d06-9338-257194bf3de8', 400);
+INSERT INTO transaction (sender_id, receiver_id, amount) VALUES ('99c5591f-e3e8-4d06-9338-257194bf3de8', 'f47ac10b-58cc-4372-a567-0e02b2c3d479', 450);
+INSERT INTO transaction (sender_id, receiver_id, amount) VALUES ('f47ac10b-58cc-4372-a567-0e02b2c3d479', '99c5591f-e3e8-4d06-9338-257194bf3de8', 500);
+INSERT INTO transaction (sender_id, receiver_id, amount) VALUES ('99c5591f-e3e8-4d06-9338-257194bf3de8', 'f47ac10b-58cc-4372-a567-0e02b2c3d479', 550);
